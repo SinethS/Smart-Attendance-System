@@ -10,6 +10,7 @@ It allows for automatic recording of attendance by scanning RFID cards/tags, sto
 The system integrates **RFID hardware**, a **Python backend**, and a **MariaDB database** to provide a reliable, real-time attendance monitoring solution.
 
 ---
+[Watch the demo video](Media/Demo.mp4)
 
 ## 🛠 Components Used
 - **Raspberry Pi 4B** 
